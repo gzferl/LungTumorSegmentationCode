@@ -72,6 +72,6 @@
 <p><br></p>
 <p><strong>FOOTNOTES</strong></p>
 <p><sup>*</sup>code listed here is specific to the computing environment used in Ferl et al. 2022 and should be modified as needed for your computing environment</p>
-<p><sup>**</sup>Figure 2: scans 11221 - 29472 and 39483 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p>&nbsp; &nbsp;Figure 4: scans 36301 - 38803&nbsp;</p>
-<p>&nbsp; &nbsp;Figure S9: scans 57090117 - 580070317 &nbsp;</p>
+<p><sup>**</sup>Figure 1: scans 11221 - 29472 and 39483 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>&nbsp; &nbsp;Figure 3d: scans 36301 - 38803&nbsp;</p>
+<p>&nbsp; &nbsp;Figure S8: scans 57090117 - 580070317 &nbsp;</p>
